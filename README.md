@@ -49,17 +49,10 @@ print(f"Sum: {num1 + num2}")
 ---
 
 ### 📜 License  
-MIT © [Your Name]  
+MIT © []  
 
 ---
 
 **Enjoy calculating!** 🚀🔥  
 
 ---
-
-### How to Use This README:
-1. Save it as `README.md` in your project folder.  
-2. Update the "Future Improvements" or "License" section as needed.  
-3. Push to GitHub/GitLab to showcase your work!  
-
-Want me to tweak anything? 😊
